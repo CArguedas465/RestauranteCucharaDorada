@@ -1,0 +1,19 @@
+1%Hamburguesa con queso%25
+2%Hamburguesa doble de pollo% 30
+3%Hamburguesa de huevo%50
+4%Hamburguesa 1/4 de Libra%25
+5%Hamburgesa con tocineta%27
+6%Hamburguesa de Lomo%30
+7%Papas Fritas%500
+8%Salchipapas%100
+9%Empanada Simple%70
+10%Empanada Arreglada%40
+11%Gallo pinto%200
+12%Gallo pinto con huevo%300
+13%Casado%70
+14%Alitas BBQ%100
+15%Sandwich%150
+16%Te Frío%20
+17%Crema%20	
+18%Gaseosa%20
+19%Agua en Botella%20

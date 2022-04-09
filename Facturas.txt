@@ -1,0 +1,42 @@
+13/04/2021%Karina%Carlos Arguedas%4554%asdasd    asdasdas%Efectivo%Factura%Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050%4100.0%4633.0%4633.0
+15/04/2021%asdasdasd%asdasd%asdasd%asdasd%Efectivo%Proforma%Hamburguesa doble de pollo 3310, Hamburguesa doble de pollo 3310%6620.0%7480.599999999999%7480.6
+15/04/2021%asdas%dasdasd%sadasd%asdasdas%Efectivo%Factura%Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600%6400.0%7231.999999999999%6508.8
+15/04/2021%sdfsdf%sdfsdf%ffsdfsdf%orden dos%Efectivo%Factura%Empanada Arreglada 4000, Empanada Arreglada 4000, Empanada Arreglada 4000%12000.0%13559.999999999998%12204.0
+15/04/2021%asdasdasd%asdas%dasdas%asdasd%Efectivo%Factura%Empanada Arreglada 4000, Empanada Arreglada 4000, Empanada Arreglada 4000, Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600%15200.0%17176.0%15458.4
+15/04/2021%asdasd%asdasd%asdasdasdas%asdasdsa%Efectivo%Factura%Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600%4800.0%5423.999999999999%5424.0
+15/04/2021%asdasd%asdasd%asdasd%asdasd%Efectivo%Factura%Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600, Empanada Arreglada 4000, Empanada Arreglada 4000%11200.0%12655.999999999998%12656.0
+15/04/2021%asdasd%asdas%asdasdas%asdasd%Efectivo%Factura%Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600%4800.0%5423.999999999999%5424.0
+15/04/2021%asdasd%asda%asdas%asdasd%Efectivo%Proforma%Hamburguesa con queso 4000, Hamburguesa con queso 4000, Hamburguesa con queso 4000%12000.0%13559.999999999998%13560.0
+15/04/2021%asdas%asdasd%asdasd%asdasd%Efectivo%Factura%Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600%3200.0%3615.9999999999995%3616.0
+15/04/2021%asdasd%asdas%asdasd%asdas%Efectivo%Factura%Hamburguesa doble de pollo 3310, Hamburguesa doble de pollo 3310%6620.0%7480.599999999999%7480.6
+15/04/2021%asdasd%asdasd%asdasd%asdasd%Efectivo%Factura%Hamburguesa doble de pollo 3310, Hamburguesa doble de pollo 3310%6620.0%7480.599999999999%7480.6
+15/04/2021%asdad%asdasd%asdasd%asdasdas%Efectivo%Proforma%Hamburguesa con queso 4000, Hamburguesa con queso 4000, Hamburguesa con queso 4000%12000.0%13559.999999999998%13560.0
+15/04/2021%asdasd%asdas%asdasd%asdad%Efectivo%Proforma%Hamburguesa doble de pollo 3310, Hamburguesa doble de pollo 3310%6620.0%7480.599999999999%7480.6
+15/04/2021%asdasdas%asdasd%asdas%asdasd%Efectivo%Factura%Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600%4800.0%5423.999999999999%4610.4
+15/04/2021%asdasd%asdad%asdasd%asdasd%Efectivo%Factura%Empanada Arreglada 4000, Empanada Arreglada 4000, Empanada Arreglada 4000, Empanada Arreglada 4000%16000.0%18080.0%15368.0
+15/04/2021%asdasd%asd%asda%asdas%Efectivo%Factura%Hamburguesa doble de pollo 3310, Hamburguesa doble de pollo 3310%6620.0%7480.599999999999%6358.51
+15/04/2021%asdasd%asdas%asdas%asdasd%Efectivo%Factura%Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050, Hamburguesa doble de pollo 3310, Hamburguesa doble de pollo 3310%12770.0%14430.099999999999%14430.1
+15/04/2021%asdasd%asdas%dasdasd%dasd%Tarjeta%Factura%Empanada Arreglada 4000, Empanada Arreglada 4000, Empanada Arreglada 4000%12000.0%13559.999999999998%13560.0
+16/04/2021%asdas%asd%asdas%asdas%Tarjeta%Factura%Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050%4100.0%4633.0%4633.0
+16/04/2021%asdasd%asdasd%asdasd%asdasdasd%Efectivo%Proforma%Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050%6150.0%6949.499999999999%6949.5
+16/04/2021%asdasd%asdas%asdas%asdasdasd%Tarjeta%Factura%Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600%4800.0%5423.999999999999%5424.0
+16/04/2021%asdasd%asdasd%asdasd%asdasdas%Efectivo%Factura%Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050%6150.0%6949.499999999999%6949.5
+16/04/2021%asdasdas%asdas%asda%asdas%Efectivo%Proforma%Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050%6150.0%6949.499999999999%6949.5
+16/04/2021%asdasd%asdas%asdas%asdas%Efectivo%Proforma%Hamburguesa doble de pollo 3310, Hamburguesa doble de pollo 3310, Hamburguesa doble de pollo 3310%9930.0%11220.9%11220.9
+16/04/2021%asdsa%asdasd%asdasd%asdasdas%Efectivo%Factura%Hamburguesa doble de pollo 3310, Hamburguesa doble de pollo 3310%6620.0%7480.599999999999%7480.6
+16/04/2021%asdas%asdasd%asdsa%asdasdasd%Efectivo%Proforma%Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050%6150.0%6949.499999999999%6949.5
+16/04/2021%asdasd%asda%sasdas%asdasd%Tarjeta%Factura%Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050%4100.0%4633.0%4633.0
+16/04/2021%asdasd%asdasd%asdas%asdasds%N/A%Proforma%Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600%4800.0%5423.999999999999%5424.0
+16/04/2021%sasdas%asda%asdad%asdasdas%N/A%Proforma%Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050%6150.0%6949.499999999999%6949.5
+16/04/2021%asdas%dasdasd%asdas%asdasdasd%Efectivo%Factura%Hamburguesa doble de pollo 3310, Hamburguesa doble de pollo 3310, Hamburguesa doble de pollo 3310%9930.0%11220.9%11220.9
+16/04/2021%asdasd%asdas%asda%asdas%Efectivo%Factura%Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600%3200.0%3615.9999999999995%3616.0
+16/04/2021%asdas%asdas%asdas%asdasdasd%N/A%Proforma%Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050%6150.0%6949.499999999999%6949.5
+16/04/2021%asdasda%asdasd%asdasd%asdasd%Tarjeta%Factura%Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600%4800.0%5423.999999999999%5424.0
+16/04/2021%asdasd%asdasd%asdas%asdsad%Efectivo%Factura%Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600%3200.0%3615.9999999999995%3616.0
+16/04/2021%asdasd%asdasa%sasdsa%asdasd%Efectivo%Factura%Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050, Hamburguesa 1/4 de Libra 2050%8200.0%9266.0%7412.8
+16/04/2021%asdasd%asdasd%asdasd%asasdas%Tarjeta%Factura%Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600%6400.0%7231.999999999999%5785.6
+16/04/2021%asdasd%asdsa%asdas%asdasd%Tarjeta%Factura%Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600, Hamburguesa no pa ti 1600%4800.0%5423.999999999999%5424.0
+16/04/2021%asdasd%asdas%asdas%asdasd%Efectivo%Factura%Hamburguesa 1/4 de Libra 2050%2050.0%2316.5%2316.5
+16/04/2021%asd%asdas%asd%asdasd%N/A%Proforma%Empanada Arreglada 4000, Empanada Arreglada 4000%8000.0%9040.0%9040.0
+16/04/2021%Karina%Joshua Arguedas%45%Casado simple más bebida.%N/A%Proforma%Casado 3100, Te frio de melocoton 790, Papas Fritas 1050%4940.0%5582.2%5303.09
+16/04/2021%Carlos%Joshua Rodríguez%45%Casados simples más bebida. %Efectivo%Factura%Casado 3100, Casado 3100, Te frio de melocoton 790, Te frio de melocoton 790, Agua embotellada 1500%9280.0%10486.4%9962.08
